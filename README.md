@@ -22,3 +22,7 @@ Projekt gry RPG, napisany w środowisku 3D.
 * Śledzenie postępu zadania
 
 ![picture](img/frame2.png)
+
+## Zawartość repozytorium
+
+Projekt wraz ze wszystkimi modelami i grafiką.
